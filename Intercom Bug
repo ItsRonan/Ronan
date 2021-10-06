@@ -1,0 +1,170 @@
+<!DOCTYPE html><html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>Email Template</title>
+    <style type="text/css" data-premailer="ignore">
+        .ReadMsgBody { width: 100%; background-color: #ebebeb;}
+        .ExternalClass {width: 100%; background-color: #ebebeb;}
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height:100%;}
+        body {-webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+        body {margin:0; padding:0;}
+        table {border-spacing:0;}
+        table td {border-collapse:collapse;}
+        .yshortcuts a {border-bottom: none !important;}
+        @media screen and (max-width: 600px), screen and (max-device-width: 600px) {
+            table[class="container"] { width: 100% !important; }
+        }
+        @media screen and (max-width: 480px), screen and (max-device-width: 480px) {
+            td[class="container-padding"] { padding-left: 12px !important; padding-right: 12px !important; }
+            }
+    </style>
+    <style type="text/css">
+        body { background-color: #ffffff;  margin: 0; }
+        table.container { box-shadow: 0 0 3px #ddd; border-bottom: 1px solid #e0e0e0; border-top: 1px solid #e0e0e0;font-family: 'Raleway', Arial, sans-serif; color: #696969; }
+        table.container td { border-left: 1px solid #e0e0e0; border-right: 1px solid #e0e0e0; }
+        table.container td.header div { height: 5px; border: 1px solid #042f6d; background-color: #0e4595; -webkit-border-radius: 2px;  border-radius: 2px; box-shadow: inset 0 1px 0 #3e6aaa; }
+        table.container td.logo { text-align: center; padding: 50px 50px 40px ; background-color: #03A9F4; }
+        table.container td.header { text-align: center; background-color: #03A9F4; } 
+        table.container td.heroimage { text-align: center; background-color: #ffffff; }
+        table.container td.help { text-align:center; background-color: #4CAF50; }
+        table.preheader { height: 20px; background-color: #03A9F4; padding: 20px 20px 0px; font-size: 11px; }
+        table.preheader td.signin { width: 50%; text-align: left; border-left: none; border-right: none; }
+        table.preheader td.browser { width: 50%; text-align: right; border-left: none; border-right: none;}
+        table.preheader td.browser a { color: #ffffff; text-decoration: none; }
+        table.container td.reports { text-align: center; border-left: none; border-right: none; padding:20px 20px 20px 20px; border-radius: 1.5625rem; box-shadow: 0 0 18px #d9d9d9; }
+        table.container td.reports2 { text-align: center; border-left: none; border-right: none; padding:20px 20px 20px 20px; border-radius: 1.5625rem; box-shadow: 0 0 18px #d9d9d9;  }
+        h1, h2, h3, h4, h5, h6 { color: #0E4595; line-height:25px; margin: 0 0 25px 0; font-family: 'Raleway', Arial, sans-serif; font-weight:500; }
+        h1 { font-size: 22px; color: #ffffff; } h2 { font-size: 18px; color: #03A9F4; } h3 { font-size: 16px; color: #696969; } h4, h5, h6 { font-size: 14px; color: #696969; }
+        p { font-size: 14px; line-height:20px; margin: 0 0 25px 0; color: #696969; font-family: 'Raleway', Arial, sans-serif; }
+        a { color: #03A9F4; text-decoration: none; font-family: 'Raleway', Arial, sans-serif; }
+        td.container-padding img {  }
+        a.intercom-h2b-button { border-radius: 3.125rem; padding-top: .5rem; padding-bottom: .5rem; padding-left: 2rem; padding-right: 2rem; text-align: center; font-weight: 600; font-family: 'Raleway', Arial, sans-serif; color: #fff; font-size: .9rem; display: inline-block; border: none; background: #03A9F4; box-shadow: 0 0 18px #d9d9d9; text-decoration: none; }
+        ul li, ol li { font-size: 14px; line-height: 1.5; }
+        table.footer { border-top: 1px solid #efefef; width: 100%; height: 69px; }
+        table.footer td { vertical-align: middle; text-align: center; color: #696969; font-size: 12px; }
+        table.footer td.contact { width: 60%; line-height: 20px; border-left: none; padding:20px; border-right: none; }
+        table.footer td.contact a {color: #03A9F4; text-decoration: none; }
+        table.footer td.social { width: 100%; border-left: none; border-right: none; }
+        table.footer td.socialicons { padding-left: 50px; } 
+        table.footer td.social img { vertical-align: middle; }
+        table.footer td.app { width: 100%; border-left: none; border-right: none; }
+        table.footer td.subscription { width: 40%; }
+        table.footer td.subscription a { color: #434343; } 
+    </style>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Raleway');
+    </style>
+</head>
+<body style="margin:0; padding:0;" bgcolor="#ffffff">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, a, h1, h2, h3, h4, h5, h6, p {font-family: 'Arial', Helvetica, sans-serif !important; font-weight: 500 ! important; }
+</style>
+<![endif]-->
+<br>
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#f0f0f0">
+  <tbody><tr>
+    <td align="center" valign="top" bgcolor="#f0f0f0" style="background-color: #ffffff;">
+      <table width="600" cellpadding="0" cellspacing="0" border="0" class="container" bgcolor="#f0f0f0">
+        <tbody><tr>
+            <td>
+                <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" class="preheader" style="min-width:100%;">
+                    <tbody><tr>
+                        <td class="signin">
+                           <a href="https://my.pandle.co.uk/users/sign_in"><img src="https://www.pandle.co.uk/wp-content/uploads/2018/08/Log-in.png" title="Log in" style="border: 0px;width:100%;height:auto;max-width:28px;" width="28"></a>
+                        </td>
+                        <td class="browser">
+                            <a href="https://support.pandle.co.uk"><img src="https://www.pandle.co.uk/wp-content/uploads/2018/08/Help-centre.png" title="Help centre" style="border: 0px;width:100%;height:auto;max-width:30px;" width="30"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td class="logo">
+                <a href="https://www.pandle.co.uk/"><img src="https://www.pandle.com/wp-content/uploads/2021/03/Pandle-Logo-Email-Size.png" width="220" title="Pandle Logo" style="border: 0px;width:100%;height:auto;max-width:220px;"></a>
+            </td>
+        </tr>
+        <tr>
+            <td class="header">
+                <h1>Customise your Quick Links Menu</h1>
+            </td>
+        </tr>
+        <tr>
+            <td class="heroimage">
+                <img src="https://www.pandle.com/wp-content/uploads/2021/08/Pandle_Update_-_Customise_your_Quick_Links_Menu_Email.png" title="Avoiding Errors in VAT Scheme Updates" width="600" style="border: 0px;width:100%;height:auto;max-width:600px;">
+            </td>
+        </tr>
+        <tr>
+          <td class="container-padding" bgcolor="#ffffff" style="background-color: #ffffff; padding-top:10px;padding-left:30px;padding-right:30px;">
+   
+{{  content  }}
+           
+          </td>
+        </tr>
+       <tr>
+          <td class="container-padding" bgcolor="#ffffff" style="background-color: #ffffff; text-align:center; padding:30px 35px 60px 35px">
+          <div><!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.pandle.com/blog/2021/08/24/pandle-update-customise-your-quick-links-menu/" style="height:35px;v-text-anchor:middle;width:300px;" arcsize="125%" stroke="f" fillcolor="#03A9F4">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href="https://www.pandle.com/blog/2021/08/24/pandle-update-customise-your-quick-links-menu/" style="border-radius: 3.125rem; padding-top: .5rem; padding-bottom: .5rem; padding-left: 2rem; padding-right: 2rem; text-align: center; font-weight: 600; font-family: 'Raleway', Arial, sans-serif; color: #fff; font-size: .9rem; display: inline-block; border: none; background: #03A9F4; box-shadow: 0 0 18px #d9d9d9; text-decoration: none;">Learn more about our latest update</a>
+  <!--[if mso]>
+    </center>
+  </v:roundrect>
+<![endif]--></div> 
+          </td>
+        </tr>
+
+<tr>
+          <td class="help" style="padding:30px 40px 15px 40px;">
+           <a href="https://support.pandle.co.uk"><img src="https://www.pandle.co.uk/wp-content/uploads/2018/08/Help-centre.png" title="Help Centre" style="border: 0px;width:100%;height:auto;max-width:50px;" width="50"></a><br>
+<br>
+<h1>Any questions?</h1>
+<p style="color:#ffffff;">We offer free, unlimited support via our&nbsp;<a href="https://support.pandle.co.uk" style="color:#fff; text-decoration: underline">Help Centre</a>, where you can access articles, tours and FAQs. You can also speak to one of our Pandle ninjas using the live chat function.</p> 
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#F9F9F9" class="footer" style="min-width:100%;">
+                    <tbody><tr>
+                        <td class="social" style="padding: 20px;">
+                            <a href="https://twitter.com/pandlecloud"><img src="https://static.intercomassets.com/assets/emails/social/twitter-icon-40x40-at-2x-da23f0e307ca1e317d909653cc44825f4a1b959b7b8e138c43f3e5426204cfac.png" title="Twitter" width="25" height="25"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/pandlecloud" style="padding-left:5px"><img src="https://static.intercomassets.com/assets/emails/social/facebook-icon-40x40-at-2x-663586a3cf098c09739f886abdf16e5a2ccf55b885d99539c4b4cc0968518dd6.png" title="Facebook" width="25" height="25"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCBwoixW-73ibKe_p_Zhn9lg" style="padding-left:5px"><img src="https://www.pandle.co.uk/wp-content/uploads/2018/08/YouTube.png" title="Youtube" width="25" height="25"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/pandle" style="padding-left:5px"><img src="https://www.pandle.co.uk/wp-content/uploads/2018/08/LinkedIn.png" title="LinkedIn" width="25" height="25"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#F9F9F9" class="footer" style="min-width:100%;">
+                    <tbody><tr>
+                        <td class="app" style="padding: 10px;">
+                            <a href="https://itunes.apple.com/gb/app/pandle-mobile/id1402535196"><img alt="Download on the App Store" src="https://www.pandle.co.uk/wp-content/uploads/2018/08/Download-on-the-App-Store.png" title="Download on the App Store" width="120" style="padding:2px;border: 0px;width:100%;height:auto;max-width:120px;"></a><a href="https://play.google.com/store/apps/details?id=com.pandle"><img alt="Get it on Google Play" src="https://www.pandle.co.uk/wp-content/uploads/2018/08/Get-it-on-Google-Play.png" title="Get it on Google Play" width="120" style="padding:2px;border: 0px;width:100%;height:auto;max-width:120px;"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#F9F9F9" class="footer">
+                    <tbody><tr>
+                       <td class="contact" style="padding: 30px">
+<a href="https://www.pandle.co.uk/"><img src="https://www.pandle.com/wp-content/uploads/2021/03/Pandle-Logo-Email-Footer.png" width="120" style="border: 0px;width:100%;height:auto;max-width:120px;" title="Pandle Logo"></a><br>
+                            <br>© Copyright Pandle ® 2021<br>
+Suite 5, 5th Floor, City Reach, 5 Greenwich View Place, London, E14 9NN<br>
+support@pandle.com<br>
+                           <br>You're receiving this email because you signed up to Pandle, or showed an interest in our services.<br>
+ <br>You will receive guidance on using Pandle's features and notifications when new features or offers are released. {{ unsubscribe_link }} only if you no longer want to receive any communications of this nature.
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+      </tbody></table>
+    </td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+</body></html>
